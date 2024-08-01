@@ -58,7 +58,7 @@ img {
   background-image: url("https://images.unsplash.com/photo-1472396961693-142e6e269027?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTgwOTN8MHwxfHNlYXJjaHwxfHxuYXR1cmV8ZW58MHx8fHwxNzIyMzMyNTM2fDA&ixlib=rb-4.0.3&q=80&w=1080");
   position: relative;
   opacity: 0.80;
-  background-position: center;
+  background-position: start;
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
@@ -69,7 +69,7 @@ img {
   background-image: url("https://images.unsplash.com/photo-1500673922987-e212871fec22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTgwOTN8MHwxfHNlYXJjaHwxN3x8bmF0dXJlfGVufDB8fHx8MTcyMjMzMjUzNnww&ixlib=rb-4.0.3&q=80&w=1080");
   position: relative;
   opacity: 0.80;
-  background-position: center;
+  background-position: start;
   background-repeat: no-repeat;
   background-attachment: fixed;  
 }
